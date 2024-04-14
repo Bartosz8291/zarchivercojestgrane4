@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<os>
+    <name>XmlOS</name>
+    <version>1.0</version>
+    <website>
+        <name>Ubuntu Terminal</name>
+        <link>http://example.com/ubuntu-terminal</link>
+    </website>
+</os>
